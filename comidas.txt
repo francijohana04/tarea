@@ -1,11 +1,11 @@
 comidas
-[]arepa rellena
+[x]arepa rellena
 []pollo con champiñones
 []spaguetis
 []pollo al ajillo
-[]arroz con pollo
-[]tucha apanada
-[]perro caliente
+[x]arroz con pollo
+[x]tucha apanada
+[x]erro caliente
 []burritos
-[]pizza
+[x]pizza
 []ajiaco
