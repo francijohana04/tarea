@@ -1,9 +1,9 @@
 compañeros
 cami
-fredy
+[x]fredy
 omar
 victor
 erika
-valentina
+[x]valentina
 sandi
 
